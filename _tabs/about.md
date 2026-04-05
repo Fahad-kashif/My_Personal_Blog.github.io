@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+icon: fas fa-star
 description: "Learn more about Amara Hafeez, her journey as a Computer Engineering student, coding projects, university experiences, and personal growth."
 permalink: /about/
 ---
